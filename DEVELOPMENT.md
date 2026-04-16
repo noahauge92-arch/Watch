@@ -1,1 +1,0 @@
-# ChronosVault Frontend Development
